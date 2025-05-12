@@ -18,7 +18,8 @@ Skunkworks Digital provides a wide range of services, including but not limited 
 | 🎓 Accredited Training | Authorized education for IBM, Microsoft, Cisco, and CompTIA. |
 | 🏆 Skills Development | Proprietary course catalog and tailored training services. |
 
-![IT Education](https://via.placeholder.com/800x400?text=Empowering+Learning)
+![IT Education](https://github.com/user-attachments/assets/991f129b-68fa-4bbf-919c-daba023e6469)
+
 
 ### 💻 **Reselling Hardware & Software**
 
@@ -27,7 +28,8 @@ Skunkworks Digital provides a wide range of services, including but not limited 
 | 🔄 Refurbished Devices | High-quality laptops and devices. |
 | 📜 Software Licenses | Official licenses for Microsoft, Adobe, Sage, and more. |
 
-![Reselling Services](https://via.placeholder.com/800x400?text=Reselling+Hardware+and+Software)
+![Reselling Hardware   Software](https://github.com/user-attachments/assets/215245b8-b423-478d-b2f2-6d0cd51e8523)
+
 
 ### ☁️ **Hosting & Managed Cloud Services**
 
@@ -44,7 +46,8 @@ gantt
 - 🌩️ Scalable cloud hosting solutions tailored to your business needs.
 - 🔒 Fully managed cloud services for secure and reliable operations.
 
-![Cloud Solutions](https://via.placeholder.com/800x400?text=Cloud+Solutions)
+![Cloud Solutions](https://github.com/user-attachments/assets/17e657e0-3208-48a6-a38d-36a8f2b84767)
+
 
 ### 🌐 **Web Development, Digital Marketing, & SEO**
 
@@ -54,18 +57,21 @@ gantt
 | 📈 Digital Marketing | Strategies to grow your audience and engagement. |
 | 🔍 SEO Optimization | Improve your visibility and rankings. |
 
-![Web Development](https://via.placeholder.com/800x400?text=Digital+Marketing+and+SEO)
+![Web Development, Digital Marketing,   SEO](https://github.com/user-attachments/assets/1724b246-646e-4c38-b384-f05e5b1e8725)
+
 
 ### 🛠️ **Consulting & Implementation**
 - 🌐 Specialized consulting for IBM software and hardware solutions.
 - ⚙️ Custom implementation services to meet specific business needs.
 
-![Consulting Services](https://via.placeholder.com/800x400?text=Consulting+and+Implementation)
+![Consulting   Implementation](https://github.com/user-attachments/assets/33e160ef-66d8-4c29-9cb4-5cf4089ceaaa)
+
 
 ### 📊 **Accounting Services**
 - 💼 Partnered with Jamtax to provide expert accounting and financial services.
 
-![Accounting Services](https://via.placeholder.com/800x400?text=Accounting+Services)
+![Accounting Services](https://github.com/user-attachments/assets/365eae06-99d2-4143-88a7-4edc34960283)
+
 
 ---
 
@@ -78,7 +84,8 @@ This organization hosts various repositories dedicated to our projects and initi
 - 🛒 **Reselling Platforms:** Systems and frameworks for selling hardware and software online.
 - 🌐 **Web Solutions:** Tools and templates for web development and digital marketing.
 
-![Projects](https://via.placeholder.com/800x400?text=Explore+Our+Projects)
+  ![Projects](https://github.com/user-attachments/assets/063c6e21-4198-44aa-87fc-977301252c04)
+  
 
 ---
 
@@ -91,7 +98,8 @@ We welcome collaboration and contributions! Here’s how you can get started:
 3. **Submit Pull Requests:** 🛠️ If you have code improvements or new features, submit a PR for review.
 4. **Join Discussions:** 💬 Participate in our discussions to share ideas and feedback.
 
-![Get Involved](https://via.placeholder.com/800x400?text=Join+the+Community)
+![Get Involved](https://github.com/user-attachments/assets/d4c1ae47-e45b-4a3a-ba98-b17f61efb59b)
+
 
 ---
 
