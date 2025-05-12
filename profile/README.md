@@ -167,7 +167,7 @@ We welcome collaboration and contributions! Here’s how you can get started:
 For inquiries, collaborations, or support, feel free to reach out:
 
 * 🌐 **Website:** [Skunkworks Digital](https://skunkworksdigital.co.za)
-* 📧 **Email:** [support@skunkworks.digital](mailto:support@skunkworks.digital)
+* 📧 **Email:** [support@skunkworksdigital.co.za](mailto:support@skunkworksdigital.co.za)
 * 📞 **Phone:** +27 68 649 3591
 
 ---
@@ -182,7 +182,7 @@ Please refer to the respective `LICENSE` file for details.
 ![Footer](https://github.com/user-attachments/assets/df022412-fee5-4148-b700-876bc60d9f4f)
 
 <p align="center">
-  <strong><em>Thank you for visiting <a href="https://skunkworks.digital" target="_blank">Skunkworks Digital</a>!</em></strong><br/>
-  <em>Together, let’s <a href="https://skunkworks.digital/projects" target="_blank">innovate</a> and drive the future of technology.</em>
+  <strong><em>Thank you for visiting <a href="https://skunkworksdigital.co.za" target="_blank">Skunkworks Digital</a>!</em></strong><br/>
+  <em>Together, let’s <a href="https://skunkworksdigital.co.za/projects" target="_blank">innovate</a> and drive the future of technology.</em>
 </p>
 
