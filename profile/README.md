@@ -1,6 +1,7 @@
 # Skunkworks Digital
 
-![Skunkworks Digital Banner](https://via.placeholder.com/1200x400?text=Skunkworks+Digital)
+![skunkworks-digital](https://github.com/user-attachments/assets/d84eee80-8441-4ac8-a329-c9badcf52617)
+
 
 Welcome to the official GitHub organization for **Skunkworks Digital**! We specialize in cutting-edge IT solutions, education, and consulting services for businesses and individuals. Our mission is to empower clients with technology-driven solutions while maintaining the highest standards of quality and innovation.
 
