@@ -144,7 +144,8 @@ Each repository includes detailed documentation to help you get started and cont
 * 🛒 **Reselling Platforms:** Systems and frameworks for selling hardware and software online.
 * 🌐 **Web Solutions:** Tools and templates for web development and digital marketing.
 
-![Projects](https://github.com/user-attachments/assets/063c6e21-4198-44aa-87fc-977301252c04)
+![Projects](https://github.com/user-attachments/assets/7ae30a3f-40ce-47c1-95e1-ce19913c2657)
+
 
 ---
 
@@ -180,5 +181,8 @@ Please refer to the respective `LICENSE` file for details.
 
 ![Footer](https://github.com/user-attachments/assets/df022412-fee5-4148-b700-876bc60d9f4f)
 
-**Thank you for visiting Skunkworks Digital!**
-Together, let’s innovate and drive the future of technology.
+<p align="center">
+  <strong><em>Thank you for visiting <a href="https://skunkworks.digital" target="_blank">Skunkworks Digital</a>!</em></strong><br/>
+  <em>Together, let’s <a href="https://skunkworks.digital/projects" target="_blank">innovate</a> and drive the future of technology.</em>
+</p>
+
